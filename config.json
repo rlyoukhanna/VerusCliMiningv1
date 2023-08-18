@@ -2,11 +2,9 @@
 	"pools":[
 	{
 		"name": "Cloudiko",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "us.cloudiko.io:9999",
 		"timeout": 150
-	},
-	
-	,
+	}],
 	"user": "RKcXPugABZaihYe6YcNeFfdEbr5Pd5BgU5.Sam01",
 	"pass": "x",
 	"algo": "verus",
