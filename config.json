@@ -1,21 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
+		"name": "Cloudiko",
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
-	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
-		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
-		"timeout": 150
-	}
-	],
+	
+	,
 	"user": "RKcXPugABZaihYe6YcNeFfdEbr5Pd5BgU5.Sam01",
 	"pass": "x",
 	"algo": "verus",
