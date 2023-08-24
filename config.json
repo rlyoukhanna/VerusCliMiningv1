@@ -1,11 +1,12 @@
 {
-	"pools":[
-	{
-		"name": "Cloudiko",
-        	"url": "us.cloudiko.io:9999",
-		"timeout": 150
-	}],
-	"user": "RKcXPugABZaihYe6YcNeFfdEbr5Pd5BgU5.Sam01",
+	"pools": [
+		{
+			"name": "Cloudiko",
+			"url": "us.cloudiko.io:9999",
+			"timeout": 150
+		}
+	],
+	"user": "RKcXPugABZaihYe6YcNeFfdEbr5Pd5BgU5.Sam152",
 	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
