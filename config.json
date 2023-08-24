@@ -1,8 +1,8 @@
 {
 	"pools": [
 		{
-			"name": "Cloudiko",
-			"url": "us.cloudiko.io:9999",
+			"name": "luckpool",
+			"url": "na.luckpool.net:3956",
 			"timeout": 150
 		}
 	],
